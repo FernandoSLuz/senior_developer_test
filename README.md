@@ -12,7 +12,7 @@ This repository contains the solutions to the WildCard Games Senior Developer Te
 
 - [`Part 1.pdf`](Part%201.pdf): Contains answers to Part 1 of the challenge.
 - [`Part 2.pdf`](Part%202.pdf): Contains answers to Part 2 of the challenge.
-- `UnityProject/`: Contains the Unity 2021.3 project for Part 3 of the challenge.
+- [`UnityProject/`](UnityProject/) Contains the Unity 2021.3 project for Part 3 of the challenge.
 - [`WildCardChallengeBuild.zip`](WildCardChallengeBuild.zip): Zip file containing the build of the Part 3 project for windows.
 
 ## Part 3 Demo
