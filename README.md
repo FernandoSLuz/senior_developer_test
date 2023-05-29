@@ -1,8 +1,8 @@
-# WildCard Games Senior Developer Test - Submission
+# Senior Developer Test - Submission
 
 ## Overview
 
-This repository contains the solutions to the WildCard Games Senior Developer Test. The solutions are divided into three parts as required by the challenge.
+This repository contains the solutions to a Senior Developer Test. The solutions are divided into three parts as required by the challenge.
 
 - Part 1: A PDF containing answers to the questions about motivation, leadership, game development risks, and ideal process for game development.
 - Part 2: A PDF containing answers to questions about tasks and coroutines, common Unity development mistakes, object model for a card game, and building a computer player for a two-player card game.
